@@ -4,6 +4,7 @@
 
 ### [Ambiente Linux]
 Execute os seguintes comandos em seu terminal
+
 `gcc -pthread -o out main.c`
 
 e depois:
