@@ -12,9 +12,13 @@ e depois:
 `./out`
 
 Ou se preferir, use o script:
+
 `chmod u+x run.sh`
+
 em seguida...
+
 `./run.sh`
 
 Se não funcionar, tente:
+
 `sh run.sh`
