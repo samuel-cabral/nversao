@@ -15,7 +15,7 @@ Ou se preferir, use o script:
 
 `chmod u+x run.sh`
 
-em seguida...
+em seguida:
 
 `./run.sh`
 
